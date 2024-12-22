@@ -18,3 +18,4 @@ if __name__ == '__main__':
     with open(OUTPUT_FILENAME) as output_f:
         data = json.load(output_f)
         print(data)
+        
